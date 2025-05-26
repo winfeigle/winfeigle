@@ -10,7 +10,6 @@ I’m a product-focused founder and builder, most recently scaling Feedplan with
 
 ### Featured Projects
 
-* [Task Anchor](https://github.com/winfeigle/task-anchor-mvp) — micro-tasking focus tool for ADHD minds
 * [Feedplan](https://github.com/feedplan) — prepay-for-takeout platform, backed by a16z
     * [Available on the App Store](https://apps.apple.com/us/app/feedplan-restaurant-savings/id1636252926)
 
