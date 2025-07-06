@@ -13,13 +13,6 @@ I’m a product-focused founder and builder, most recently scaling Feedplan with
 * [Feedplan](https://github.com/feedplan) — prepay-for-takeout platform, backed by a16z
     * [Available on the App Store](https://apps.apple.com/us/app/feedplan-restaurant-savings/id1636252926)
 
-<p align="left">
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="20" alt="Figma" />&nbsp;&nbsp;&nbsp;
-   <img src="https://boost.space/wp-content/uploads/2024/11/notion.png" height="22" alt="Notion" />&nbsp;&nbsp;&nbsp;
-   <img src="https://custom.typingmind.com/assets/models/claude.webp" height="20" alt="Claude / Anthropic" />&nbsp;&nbsp;&nbsp;
-   <img src="https://ai.ls/assets/openai-logos/PNGs/openai-white-lockup.png" height="20" alt="ChatGPT" />&nbsp;&nbsp;&nbsp;
-</p>
-
 ---
   
 > *The best way to predict the future is to launch it 🚀*
